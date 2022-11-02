@@ -1,0 +1,8 @@
+D:\Users\MelihGuler\source\repos\CSharpCourse\Ch5Loops\bin\Debug\Ch5Loops.exe.config
+D:\Users\MelihGuler\source\repos\CSharpCourse\Ch5Loops\bin\Debug\Ch5Loops.exe
+D:\Users\MelihGuler\source\repos\CSharpCourse\Ch5Loops\bin\Debug\Ch5Loops.pdb
+D:\Users\MelihGuler\source\repos\CSharpCourse\Ch5Loops\obj\Debug\Ch5Loops.csproj.AssemblyReference.cache
+D:\Users\MelihGuler\source\repos\CSharpCourse\Ch5Loops\obj\Debug\Ch5Loops.csproj.SuggestedBindingRedirects.cache
+D:\Users\MelihGuler\source\repos\CSharpCourse\Ch5Loops\obj\Debug\Ch5Loops.csproj.CoreCompileInputs.cache
+D:\Users\MelihGuler\source\repos\CSharpCourse\Ch5Loops\obj\Debug\Ch5Loops.exe
+D:\Users\MelihGuler\source\repos\CSharpCourse\Ch5Loops\obj\Debug\Ch5Loops.pdb

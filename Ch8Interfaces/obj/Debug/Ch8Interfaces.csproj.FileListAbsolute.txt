@@ -1,0 +1,8 @@
+D:\Users\MelihGuler\source\repos\CSharpCourse\Ch8Interfaces\obj\Debug\Ch8Interfaces.csproj.AssemblyReference.cache
+D:\Users\MelihGuler\source\repos\CSharpCourse\Ch8Interfaces\obj\Debug\Ch8Interfaces.csproj.SuggestedBindingRedirects.cache
+D:\Users\MelihGuler\source\repos\CSharpCourse\Ch8Interfaces\obj\Debug\Ch8Interfaces.csproj.CoreCompileInputs.cache
+D:\Users\MelihGuler\source\repos\CSharpCourse\Ch8Interfaces\bin\Debug\Ch8Interfaces.exe.config
+D:\Users\MelihGuler\source\repos\CSharpCourse\Ch8Interfaces\bin\Debug\Ch8Interfaces.exe
+D:\Users\MelihGuler\source\repos\CSharpCourse\Ch8Interfaces\bin\Debug\Ch8Interfaces.pdb
+D:\Users\MelihGuler\source\repos\CSharpCourse\Ch8Interfaces\obj\Debug\Ch8Interfaces.exe
+D:\Users\MelihGuler\source\repos\CSharpCourse\Ch8Interfaces\obj\Debug\Ch8Interfaces.pdb

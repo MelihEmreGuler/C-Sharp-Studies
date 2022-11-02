@@ -1,0 +1,8 @@
+D:\Users\MelihGuler\source\repos\CSharpCourse\Ch7Classes\bin\Debug\Ch7Classes.exe.config
+D:\Users\MelihGuler\source\repos\CSharpCourse\Ch7Classes\bin\Debug\Ch7Classes.exe
+D:\Users\MelihGuler\source\repos\CSharpCourse\Ch7Classes\bin\Debug\Ch7Classes.pdb
+D:\Users\MelihGuler\source\repos\CSharpCourse\Ch7Classes\obj\Debug\Ch7Classes.csproj.AssemblyReference.cache
+D:\Users\MelihGuler\source\repos\CSharpCourse\Ch7Classes\obj\Debug\Ch7Classes.csproj.SuggestedBindingRedirects.cache
+D:\Users\MelihGuler\source\repos\CSharpCourse\Ch7Classes\obj\Debug\Ch7Classes.csproj.CoreCompileInputs.cache
+D:\Users\MelihGuler\source\repos\CSharpCourse\Ch7Classes\obj\Debug\Ch7Classes.exe
+D:\Users\MelihGuler\source\repos\CSharpCourse\Ch7Classes\obj\Debug\Ch7Classes.pdb

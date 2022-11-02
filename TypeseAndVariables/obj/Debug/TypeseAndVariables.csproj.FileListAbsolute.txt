@@ -1,0 +1,8 @@
+D:\Users\MelihGuler\source\repos\CSharpCourse\TypeseAndVariables\bin\Debug\TypeseAndVariables.exe.config
+D:\Users\MelihGuler\source\repos\CSharpCourse\TypeseAndVariables\bin\Debug\TypeseAndVariables.exe
+D:\Users\MelihGuler\source\repos\CSharpCourse\TypeseAndVariables\bin\Debug\TypeseAndVariables.pdb
+D:\Users\MelihGuler\source\repos\CSharpCourse\TypeseAndVariables\obj\Debug\TypeseAndVariables.csproj.AssemblyReference.cache
+D:\Users\MelihGuler\source\repos\CSharpCourse\TypeseAndVariables\obj\Debug\TypeseAndVariables.csproj.SuggestedBindingRedirects.cache
+D:\Users\MelihGuler\source\repos\CSharpCourse\TypeseAndVariables\obj\Debug\TypeseAndVariables.csproj.CoreCompileInputs.cache
+D:\Users\MelihGuler\source\repos\CSharpCourse\TypeseAndVariables\obj\Debug\TypeseAndVariables.exe
+D:\Users\MelihGuler\source\repos\CSharpCourse\TypeseAndVariables\obj\Debug\TypeseAndVariables.pdb

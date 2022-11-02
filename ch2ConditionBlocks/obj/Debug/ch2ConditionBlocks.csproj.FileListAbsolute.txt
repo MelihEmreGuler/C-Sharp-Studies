@@ -1,0 +1,8 @@
+D:\Users\MelihGuler\source\repos\CSharpCourse\ch2ConditionBlocks\bin\Debug\ch2ConditionBlocks.exe.config
+D:\Users\MelihGuler\source\repos\CSharpCourse\ch2ConditionBlocks\bin\Debug\ch2ConditionBlocks.exe
+D:\Users\MelihGuler\source\repos\CSharpCourse\ch2ConditionBlocks\bin\Debug\ch2ConditionBlocks.pdb
+D:\Users\MelihGuler\source\repos\CSharpCourse\ch2ConditionBlocks\obj\Debug\ch2ConditionBlocks.csproj.AssemblyReference.cache
+D:\Users\MelihGuler\source\repos\CSharpCourse\ch2ConditionBlocks\obj\Debug\ch2ConditionBlocks.csproj.SuggestedBindingRedirects.cache
+D:\Users\MelihGuler\source\repos\CSharpCourse\ch2ConditionBlocks\obj\Debug\ch2ConditionBlocks.csproj.CoreCompileInputs.cache
+D:\Users\MelihGuler\source\repos\CSharpCourse\ch2ConditionBlocks\obj\Debug\ch2ConditionBlocks.exe
+D:\Users\MelihGuler\source\repos\CSharpCourse\ch2ConditionBlocks\obj\Debug\ch2ConditionBlocks.pdb
