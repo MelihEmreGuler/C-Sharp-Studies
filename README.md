@@ -1,0 +1,1 @@
+C# alistirmalarimi chapter lar halinde inceleyebilirsiniz.
