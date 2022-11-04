@@ -39,15 +39,15 @@ namespace TypeseAndVariables
 
             var var1 = 10;
             Console.WriteLine(var1);
-            
-            
-            
-            if(var1 == 10)
+
+
+
+            if (var1 == 10)
             {
                 Console.WriteLine(var1);
 
             }
-            for(int i = 0; i > -1;i++)
+            for (int i = 0; i > -1; i++)
             {
                 Console.WriteLine(i);
             }
