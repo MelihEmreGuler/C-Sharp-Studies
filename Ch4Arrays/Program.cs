@@ -10,33 +10,33 @@ namespace Ch4Arrays
     {
         static void Main(string[] args)
         {
-            string[] students1 = new string[3]; //bu tanımda kaç elemanlı olduğunu belirtmek zorundayım.
+            string[] students1 = new string[3]; //bu tanimda kac elemanli oldugunu belirtmek zorundayim.
 
             string[] students2 = { "Melih", "Hatice", "Mustafa" };
 
             string[] students3;
             students3 = new string[3];
-            //şeklinde 3 temel tanımlama tarzı var.
+            //seklinde 3 temel tanimlama tarzi var.
 
-            students2[2] = "Mert"; // arrayin sınırları dışına çıkmak bir runtime hatasıdır.
+            students2[2] = "Mert"; // arrayin sinirlari disina cikmak bir runtime hatasidir.
 
-            //çok boyutlu diziler
-            //iki boyutlu dizilerde [satır,sütun] şeklinde boyutları yerleştiririz.
-            //  string[,] regions = new string[7, 3]; //türkiyede 7 bölge var ve her bölge için 3 şehir tanımlamak istiyorum.
+            //cok boyutlu diziler
+            //iki boyutlu dizilerde [satir,sutun] seklinde boyutlari yerlestiririz.
+            //  string[,] regions = new string[7, 3]; //turkiyede 7 bolge var ve her bolge icin 3 sehir tanimlamak istiyorum.
 
             string[,] regions2 ={{"", "", ""}, { "", "", "" },
             {"", "", ""}, { "", "", "" },
             {"", "", ""}, { "", "", "" },
             {"", "", ""}, { "", "", "" },
             };
-            //diziyi açık tanımladıktan sonra sonuna noktalı virgül koymayı unutma
+            //diziyi acik tanimladiktan sonra sonuna noktali virgul koymayi unutma
 
             for (int i = 0; i <= regions2.GetUpperBound(0); i++)
             {
-                //GetUpperBound(0) içerisindeki "0" dizinin birinci boyutunu yani satırların sayısını bize verecektir
+                //GetUpperBound(0) icerisindeki "0" dizinin birinci boyutunu yani satirlarin sayisini bize verecektir
                 for (int j = 0; j <= regions2.GetUpperBound(1); j++)
                 {
-                    //GetUpperBound(1) içerisindeki "1" dizinin birinci boyutunu yani sütunları sayısını bize verecektir
+                    //GetUpperBound(1) icerisindeki "1" dizinin birinci boyutunu yani sutunlari sayisini bize verecektir
                     regions2[i, j] = "asdf";
                     Console.WriteLine(regions2[i, j]);
                 }

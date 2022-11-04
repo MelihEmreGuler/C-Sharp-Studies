@@ -13,13 +13,13 @@ namespace Ch3Methods
             int number1 = 20;
             Console.WriteLine("ilk degeri: " + number1);
             refMethod(ref number1);
-            Console.WriteLine("Method çağırıldıktan sonraki değeri: " + number1);
+            Console.WriteLine("Method cagirildiktan sonraki degeri: " + number1);
 
             Console.WriteLine("***********************");
 
             Console.WriteLine("ilk degeri: " + number1);
             refMethod(ref number1);
-            Console.WriteLine("Method çağırıldıktan sonraki değeri: " + number1);
+            Console.WriteLine("Method cagirildiktan sonraki degeri: " + number1);
 
             Console.WriteLine("***********************");
 
@@ -30,15 +30,15 @@ namespace Ch3Methods
 
         }
 
-        // değer tiplerinin de method içerisinde değerinin değişmesini istiyorsak onların parametrelerine ref key'ini ekliyoruz.
+        // deger tiplerinin de method icerisinde degerinin degismesini istiyorsak onlarin parametrelerine ref key'ini ekliyoruz.
         static void refMethod(ref int number1)
         {
             number1 += 10;
         }
-        //değer tiplerinde ilk tanımlama yapmadan method içerisinde ilk değerini atamak istiyorsak ref yerine out key'ini kullanıyoruz.
+        //deger tiplerinde ilk tanimlama yapmadan method icerisinde ilk degerini atamak istiyorsak ref yerine out key'ini kullaniyoruz.
         static void outMethod(out int number1)
         {
-            number1 = 50; //eğer bu şekilde bir değer set etmezsek hata alırız çünkü o değişken değersiz kalır.
+            number1 = 50; //eger bu sekilde bir deger set etmezsek hata aliriz cunku o degisken degersiz kalir.
         }
 
         //method overloading
@@ -51,11 +51,11 @@ namespace Ch3Methods
             return number1 * number2 * number3;
         }
 
-        //params key'i (sınırsız parametre) 
-        //params, kullanıldığı methodun son parametresi olmak zorunda
+        //params key'i (sinirsiz parametre) 
+        //params, kullanildigi methodun son parametresi olmak zorunda
         static int Add(params int[] numbers)
         {
-            return numbers.Sum(); //Sum methodu hazır gelen bir toplama metodu.
+            return numbers.Sum(); //Sum methodu hazir gelen bir toplama metodu.
         }
     }
 }
