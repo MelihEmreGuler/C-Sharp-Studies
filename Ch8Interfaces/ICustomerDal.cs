@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Ch8Interfaces
 {
-     public interface ICustomerDal
+     public interface ICustomerDal //interface lerin fonksiyonlarinin icerisini dolduramayiz.
      {
         void Add();
         void Update();
