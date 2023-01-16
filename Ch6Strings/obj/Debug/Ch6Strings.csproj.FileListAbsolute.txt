@@ -1,8 +1,15 @@
-D:\Users\MelihGuler\source\repos\CSharpCourse\Ch6Strings\bin\Debug\Ch6Strings.exe.config
-D:\Users\MelihGuler\source\repos\CSharpCourse\Ch6Strings\bin\Debug\Ch6Strings.exe
-D:\Users\MelihGuler\source\repos\CSharpCourse\Ch6Strings\bin\Debug\Ch6Strings.pdb
-D:\Users\MelihGuler\source\repos\CSharpCourse\Ch6Strings\obj\Debug\Ch6Strings.csproj.AssemblyReference.cache
-D:\Users\MelihGuler\source\repos\CSharpCourse\Ch6Strings\obj\Debug\Ch6Strings.csproj.SuggestedBindingRedirects.cache
-D:\Users\MelihGuler\source\repos\CSharpCourse\Ch6Strings\obj\Debug\Ch6Strings.csproj.CoreCompileInputs.cache
-D:\Users\MelihGuler\source\repos\CSharpCourse\Ch6Strings\obj\Debug\Ch6Strings.exe
-D:\Users\MelihGuler\source\repos\CSharpCourse\Ch6Strings\obj\Debug\Ch6Strings.pdb
+D:/Users/MelihGuler/source/repos/CSharpCourse/Ch6Strings/bin/Debug/Ch6Strings.exe.config
+D:/Users/MelihGuler/source/repos/CSharpCourse/Ch6Strings/bin/Debug/Ch6Strings.exe
+D:/Users/MelihGuler/source/repos/CSharpCourse/Ch6Strings/bin/Debug/Ch6Strings.pdb
+D:/Users/MelihGuler/source/repos/CSharpCourse/Ch6Strings/obj/Debug/Ch6Strings.csproj.AssemblyReference.cache
+D:/Users/MelihGuler/source/repos/CSharpCourse/Ch6Strings/obj/Debug/Ch6Strings.csproj.SuggestedBindingRedirects.cache
+D:/Users/MelihGuler/source/repos/CSharpCourse/Ch6Strings/obj/Debug/Ch6Strings.csproj.CoreCompileInputs.cache
+D:/Users/MelihGuler/source/repos/CSharpCourse/Ch6Strings/obj/Debug/Ch6Strings.exe
+D:/Users/MelihGuler/source/repos/CSharpCourse/Ch6Strings/obj/Debug/Ch6Strings.pdb
+/Users/melihguler/C Sharp/C-Sharp-Studies/Ch6Strings/bin/Debug/Ch6Strings.exe.config
+/Users/melihguler/C Sharp/C-Sharp-Studies/Ch6Strings/bin/Debug/Ch6Strings.exe
+/Users/melihguler/C Sharp/C-Sharp-Studies/Ch6Strings/bin/Debug/Ch6Strings.pdb
+/Users/melihguler/C Sharp/C-Sharp-Studies/Ch6Strings/obj/Debug/Ch6Strings.csproj.AssemblyReference.cache
+/Users/melihguler/C Sharp/C-Sharp-Studies/Ch6Strings/obj/Debug/Ch6Strings.csproj.CoreCompileInputs.cache
+/Users/melihguler/C Sharp/C-Sharp-Studies/Ch6Strings/obj/Debug/Ch6Strings.exe
+/Users/melihguler/C Sharp/C-Sharp-Studies/Ch6Strings/obj/Debug/Ch6Strings.pdb
